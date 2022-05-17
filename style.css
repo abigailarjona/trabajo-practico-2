@@ -1,0 +1,91 @@
+
+/*   tarjetas*/
+
+.contenedor{
+    margin-left: 15%!important;
+    margin-right: 15%!important;
+}
+
+.card{
+    border-radius: 0!important;
+    text-align: center!important;
+}
+
+.gris{
+    color: rgb(99, 95, 95);
+    
+
+}
+
+/*   Formulario */
+.h-formu{
+    text-align: center;
+}
+.verde{
+    background-color: rgba(173, 236, 48, 0.783);
+    border-color:rgba(173, 236, 48, 0.783) ;
+    width: 100%!important;
+   
+    margin: 5px;
+    text-align: center!important;
+    align-items: center;
+
+}
+.bot-ver{
+    width: 100%;
+    display: flex;
+    padding: 0;
+}
+
+
+
+/* esto es del pie de pagina*/
+
+.lista{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    width: 100%!important;
+    justify-content: center;
+
+}
+.pie{
+    background-color: rgb(26, 55, 78);
+    padding: 10px;
+    margin-top: 20px;
+    align-content: center;
+}
+.pie-li{
+    padding: 15px;
+    margin-left: 10px;
+}
+.texto-pie{
+    color: white;
+    text-decoration: none;
+}
+*{
+    
+    padding-bottom: inherit;
+  }
+
+
+/* esto es nabvar*/
+
+
+
+  .logo{
+    width: 40%;
+    height: 40%;
+}
+.navbar-nav{
+    text-align: right!important;
+    margin-right: 20px;
+    justify-content: space-between!important;
+}
+.navbar-collapse{
+    flex-grow: 0!important;
+
+}
+header{
+    padding-bottom: 2%;
+}
